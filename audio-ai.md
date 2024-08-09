@@ -22,6 +22,7 @@
 - [Amphion](https://github.com/open-mmlab/Amphion) a toolkit for Audio, Music, and Speech Generation supporting TTS, SVS, VC, SVC, TTA, TTM
 - [voicefixer](https://github.com/haoheliu/voicefixer) restore human speech regardless how serious its degraded
 - [VoiceCraft](https://github.com/jasonppy/VoiceCraft) clone and edit an unseen voice with few seconds example and Text-to-Speech capabilities
+- [audapolis](https://github.com/bugbakery/audapolis) an audio/video editor for spoken word media editing like a text editor using speech recognition
 
 ## Speech Recognition
 
@@ -40,6 +41,7 @@
   - [asr-sd-pipeline](https://github.com/hedrergudene/asr-sd-pipeline) scalable, modular, end to end multi-speaker speech to text solution implemented using AzureML pipelines
   - [insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) The fastest Whisper optimization for automatic speech recognition as a command-line interface
   - [WhisperLive](https://github.com/collabora/WhisperLive) real time transcription using voice activity detection and TensorRT or FasterWhisper backends
+  - [Whisper Medusa](https://github.com/aiola-lab/whisper-medusa) speed improvements by multi token prediction per iteration maintaining almost similar quality
 - [ermine-ai | Whisper in the browser using transformers.js](https://github.com/vishnumenon/ermine-ai)
 - [wav2vec2 dimensional emotion model](https://github.com/audeering/w2v2-how-to)
 - [MeetingSummarizer](https://github.com/rajpdus/MeetingSummarizer) using Whisper and GPT3.dd
@@ -51,6 +53,10 @@ voice activity detection (VAD):
 - [libfvad](https://github.com/dpirch/libfvad) fork of WebRTC VAD engine as a standalone library independent from other WebRTC features
 - [voice_activity_detection](https://github.com/filippogiruzzi/voice_activity_detection) Voice Activity Detection based on Deep Learning & TensorFlow
 - [rVADfast](https://github.com/zhenghuatan/rVADfast) unsupervised, robust voice activity detection
+
+subtitle generation:
+
+- [subtitler](https://github.com/dmtrKovalenko/subtitler) on-device web app for audio transcribing and rendering subtitles
 
 ## TextToSpeech
 
@@ -104,6 +110,7 @@ voice activity detection (VAD):
   - [StyleTTS2 pip](https://github.com/sidharthrajaram/StyleTTS2) Python pip package for StyleTTS2
 - [fish-speech](https://github.com/fishaudio/fish-speech) expressive TTS with generated voices with fine tuning (voice cloning) capabilities
 - [ChatTTS](https://github.com/2noise/ChatTTS) optimized for dialogue-based TTS with natural andexpressive speech synthesis in English and Chinese with fine grained prosodic features like laughter, pauses and interjections
+- [Parler-TTS](https://github.com/huggingface/parler-tts) Huggingface's Parler TTS model can generate high quality natural speech by using two prompts one for the text and one for the style supporting gender, pitch, speaking style etc, with a Mini 0.8B and 2.3B Large model released and ready for fine tuning supporting SDPA and Flash Attention 2
 
 ## Voice Conversion
 

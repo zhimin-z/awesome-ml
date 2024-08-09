@@ -24,6 +24,8 @@
 - [StableCascade](https://github.com/Stability-AI/StableCascade) successor to Stable Diffusion by Stability AI with smaller latent space, higher speeds and better quality
 - [IDM-VTON](https://github.com/yisol/IDM-VTON) Virtual Try-on for clothes and fashion
 - [ConsistentID](https://github.com/JackAILab/ConsistentID) Portrait Generation with Multimodal Fine-Grained Identity Preservation
+- [Flux](https://huggingface.co/black-forest-labs) Black Forrest Labs consisting of ex stabilityAi staff built a SOTA text-to-image model Flux and Flux schnell, a 13B parameter transformer capable of writing text, following complex prompts released under apache 2 license
+- [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) multimodal autoregressive LLMs capable of generating flexible and photorealistic images from text descriptions 
 
  text to 3d:
 
@@ -95,6 +97,8 @@ other:
 - [text2image-gui](https://github.com/n00mkrad/text2image-gui) a Stable Diffusion GUI by NMKD
 - [sd-webui-EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) / [easyphoto](https://github.com/aigc-apps/easyphoto) plugin for generating AI portraits that can be used to train digital doppelgangers with 5-10 photos and a quick LoRA fine tune, [paper](https://arxiv.org/abs/2310.04672v1)
 - [StableTuner](https://github.com/devilismyfriend/StableTuner) Windows GUI for Finetuning / Dreambooth Stable Diffusion models (abandoned)
+- [SimpleTuner](https://github.com/bghira/SimpleTuner) fine-tuning for StableDiffusion, PixArt, Flux with LoRA and full U-Net training, multi GPU support, DeepSpeed
+- [x-flux](https://github.com/XLabs-AI/x-flux) LoRA and ControlNet training scripts for Flux model by Black Forest Labs using DeepSpeed
 
 ## Research
 
